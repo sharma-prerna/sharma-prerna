@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'm Prerna Sharma 👋
 
+---
 <!--
 **sharma-prerna/sharma-prerna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
