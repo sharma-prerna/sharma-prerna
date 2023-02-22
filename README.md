@@ -5,7 +5,14 @@
 
 ### Languages
 <!-- Python -->
-<img src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/putty.png" alt="Ruby logo" style="width:200px;"/>
+<img src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/python.jfif" alt="Python Logo" title="Python" style="width:20px;"/>
+<img src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/java.png" alt="Java" title="Python" style="width:20px;"/>
+ <!-- 
+<img src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/python.jfif" alt="Python Logo" title="Python" style="width:20px;"/>
+<img src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/python.jfif" alt="Python Logo" title="Python" style="width:20px;"/>
+<img src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/python.jfif" alt="Python Logo" title="Python" style="width:20px;"/>
+<img src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/python.jfif" alt="Python Logo" title="Python" style="width:20px;"/>
+-->
 
 
 <!--
