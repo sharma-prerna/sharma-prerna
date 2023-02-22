@@ -1,6 +1,13 @@
 ### Hi there, I'm Prerna Sharma 👋
 
 ---
+## Skills
+
+# Languages
+||
+|-|-|
+|![Python](https://www.google.com/imgres?imgurl=https%3A%2F%2Fseeklogo.com%2Fimages%2FP%2Fpython-logo-A32636CAA3-seeklogo.com.png&imgrefurl=https%3A%2F%2Fseeklogo.com%2Ffree-vector-logos%2Flanguage&tbnid=ObFZD-5nYJfvTM&vet=12ahUKEwi_3pDYxqn9AhVHG7cAHYxWAXQQMygFegUIARDYAQ..i&docid=mbrA0sidT9HfJM&w=300&h=298&q=programming%20languages%20logo%20images&ved=2ahUKEwi_3pDYxqn9AhVHG7cAHYxWAXQQMygFegUIARDYAQ)|![Java](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYY31U1ryM1lggsloYppz227oUXoPFFGSM_w&usqp=CAU)|
+
 <!--
 **sharma-prerna/sharma-prerna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
