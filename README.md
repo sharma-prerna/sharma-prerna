@@ -1,17 +1,11 @@
 ### Hi there, I'm Prerna Sharma 👋
 
 ---
-## Skills
+# Skills
 
-# Languages
-![Python](https://www.python.org/static/community_logos/python-logo.png")
-![JavaScript]([https://www.python.org/static/community_logos/python-logo.png](https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png)")
-![Java]([https://www.python.org/static/community_logos/python-logo.png](https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg)")
-![Python logo](https://www.python.org/static/community_logos/python-logo.png")
-![Python logo](https://www.python.org/static/community_logos/python-logo.png")
-
-<!-- Ruby -->
-<img src="https://www.ruby-lang.org/images/header-ruby-logo.png" alt="Ruby logo" style="width:200px;"/>
+### Languages
+<!-- Python -->
+<img src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/putty.png" alt="Ruby logo" style="width:200px;"/>
 
 
 <!--
