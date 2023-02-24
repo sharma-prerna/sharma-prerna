@@ -19,7 +19,7 @@
 <table>
 <thead>
 <tr>
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="Python" alt="Python" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/python.png" style="max-width: 100%;" width="40px"></a>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="Python" alt="Python" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/python.jpg" style="max-width: 100%;" width="40px"></a>
 </th>
 
 <th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="Java" alt="Java" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/Java.png" style="max-width: 100%;" width="40px"></a>
