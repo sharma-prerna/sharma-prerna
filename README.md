@@ -19,43 +19,72 @@
 <table>
 <thead>
 <tr>
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="Python" alt="Python" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/python.jpg" style="max-width: 100%;" width="40px"></a>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Python</a>
 </th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="Java" alt="Java" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/Java.png" style="max-width: 100%;" width="40px"></a>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Java</a>
 </th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img alt="JS" title="JavaScript" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/javaScript.png" style="max-width: 100%;" width="40px"></a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">JavaScript</a></th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="HTML" alt="HTML" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/html.png" style="max-width: 100%;" width="40px"></a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">HTML5</a></th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="CSS" alt="CSS" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/css.png" style="max-width: 100%;" width="40px"></a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">CSS3</a></th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="C" alt="C" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/c.jpg" style="max-width: 100%;" width="40px"></a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">C</a></th>
 
 </tr>
 </thead>
 </table>
 
 
-#### RDBMS / DBMS:
+#### Database:
 
 <table>
 <thead>
 <tr>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="postgreSQL" alt="postgreSQL" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/PostgreSQL.png" style="max-width: 100%;" width="40px"></a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">PostgreSQL</a></th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="mySQL" alt="mySQL" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/mySql.png" style="max-width: 100%;" width="40px"></a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">MySQL</a></th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="Oracle" alt="Oracle" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/oracle.png" style="max-width: 100%;" width="40px"></a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Oracle</a></th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="PL/SQL" alt="PL/SQL" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/plsql.png" style="max-width: 100%;" width="40px"></a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">PL / SQL</a></th>
 
 </tr>
 </thead>
 </table>
 
+
+#### Frameworks / Libraries / Others:
+
+<table>
+<thead>
+<tr>
+
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Django</a></th>
+
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">RESTful APIs</a></th>
+
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Streamlit</a></th>
+
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">TensorFlow</a></th>
+
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Pandas</a></th>
+
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Numpy</a></th>
+
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Matplotlib</a></th>
+
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Seaborn</a></th>
+
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">OpenCV</a></th>
+   
+</tr>
+  
+</thead>
+</table> 
 
 #### Tools/IDEs:
 
@@ -63,43 +92,17 @@
 <thead>
 <tr>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="Jupyter Notebook" alt="Jupyter Notebook" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/jupyternotebook.png" style="max-width: 100%;" width="40px"></a></th>
-
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="Google COLAB" alt="Google COLAB" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/googlecolab.png" style="max-width: 100%;" width="40px"></a></th>
-
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="PyCharm" alt="PyCharm" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/pycharm.png" style="max-width: 100%;" width="40px"></a></th>
-
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="Eclipse" alt="Eclipse" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/eclipse.png" style="max-width: 100%;" width="40px"></a></th>
-
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Git</a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">SVN (Subversion)</a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Eclipse</a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">PyCharm</a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Jupyter Notebook</a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Google COLAB</a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">WinSCP</a></th>
+<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Putty</a></th>
 </tr>
 </thead>
 </table>
-
-#### Frameworks / Others:
-
-<table>
-<thead>
-<tr>
-
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="Django" alt="Django" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/django.png" style="max-width: 100%;" width="40px"></a></th>
-
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="Streamlit" alt="Streamlit" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/streamlit.png" style="max-width: 100%;" width="40px"></a></th>
-
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="TensorFlow" alt="TensorFlow" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/tensorflow.png" style="max-width: 100%;" width="40px"></a></th>
-
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="Pandas" alt="Pandas" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/pandas.png" style="max-width: 100%;" width="40px"></a></th>
-
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="Numpy" alt="Numpy" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/numpy.png" style="max-width: 100%;" width="40px"></a></th>
-
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="Matplotlib" alt="Matplotlib" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/matplotlib.png" style="max-width: 100%;" width="40px"></a></th>
-
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="Seaborn" alt="Seaborn" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/seaborn.png" style="max-width: 100%;" width="40px"></a></th>
-
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#"><img title="OpenCV" alt="OpenCV" src="https://github.com/sharma-prerna/sharma-prerna/blob/main/logos/opencv.png" style="max-width: 100%;" width="40px"></a></th>
-</tr>
-</thead>
-</table> 
-
 
 <!--
 **sharma-prerna/sharma-prerna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
