@@ -2,8 +2,8 @@
 ---
 ### Skills
 ---
-#### Machine Learning Models: 
 <!--
+#### Machine Learning Models: 
 <table>
 <tr>
   <th style="text-align:left;"><ul><li> Naive Bayes </li><li> Decision Tree </li><li> Random Forest </li></ul></th>
