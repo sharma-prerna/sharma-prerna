@@ -3,7 +3,7 @@
 ### Skills
 ---
 #### Machine Learning Models: 
-
+<!--
 <table>
 <tr>
   <th style="text-align:left;"><ul><li> Naive Bayes </li><li> Decision Tree </li><li> Random Forest </li></ul></th>
@@ -11,7 +11,7 @@
   <th style="text-align:left;"><ul><li> Recurrent Neural Network </li><li> K Nearest Neighbours </li><li> Support Vector Machine </li></ul></th>
   <th style="text-align:left;"><ul><li> Deep Layer Neural Network </li><li> Long Short Term Memory </li><li> Convolutional Neural Netwrok </li></ul></th>
 </tr>
-</table>
+</table>-->
 
 
 #### Languages:
