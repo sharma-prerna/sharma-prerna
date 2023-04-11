@@ -19,19 +19,19 @@
 <table>
 <thead>
 <tr>
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Python</a>
+<th>Python
 </th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Java</a>
+<th>Java
 </th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">JavaScript</a></th>
+<th>JavaScript</th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">HTML5</a></th>
+<th>HTML5</th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">CSS3</a></th>
+<th>CSS3</th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">C</a></th>
+<th>C</th>
 
 </tr>
 </thead>
@@ -44,13 +44,13 @@
 <thead>
 <tr>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">PostgreSQL</a></th>
+<th>PostgreSQL</th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">MySQL</a></th>
+<th>MySQL</th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Oracle</a></th>
+<th>Oracle</th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">PL / SQL</a></th>
+<th>PL / SQL</th>
 
 </tr>
 </thead>
@@ -63,23 +63,23 @@
 <thead>
 <tr>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Django</a></th>
+<th>Django</th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">RESTful APIs</a></th>
+<th>RESTful APIs</th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Streamlit</a></th>
+<th>Streamlit</th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">TensorFlow</a></th>
+<th>TensorFlow</th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Pandas</a></th>
+<th>Pandas</th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Numpy</a></th>
+<th>Numpy</th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Matplotlib</a></th>
+<th>Matplotlib</th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Seaborn</a></th>
+<th>Seaborn</th>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">OpenCV</a></th>
+<th>OpenCV</th>
    
 </tr>
   
@@ -92,14 +92,14 @@
 <thead>
 <tr>
 
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Git</a></th>
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">SVN (Subversion)</a></th>
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Eclipse</a></th>
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">PyCharm</a></th>
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Jupyter Notebook</a></th>
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Google COLAB</a></th>
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">WinSCP</a></th>
-<th><a target="_blank" rel="noopener noreferrer nofollow" href="#">Putty</a></th>
+<th>Git</th>
+<th>SVN (Subversion)</th>
+<th>Eclipse</th>
+<th>PyCharm</th>
+<th>Jupyter Notebook</th>
+<th>Google COLAB</th>
+<th>WinSCP</th>
+<th>Putty</th>
 </tr>
 </thead>
 </table>
