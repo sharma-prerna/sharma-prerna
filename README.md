@@ -98,8 +98,6 @@
 <th>PyCharm</th>
 <th>Jupyter Notebook</th>
 <th>Google COLAB</th>
-<th>WinSCP</th>
-<th>Putty</th>
 </tr>
 </thead>
 </table>
